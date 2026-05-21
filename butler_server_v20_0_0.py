@@ -3,7 +3,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   BUTLER AI SERVER  -  BOTER PC Automation Suite                            ║
-║   Copyright (c) 2025 Shawn Jan. All Rights Reserved.                        ║
+║   Copyright (c) 2026 Shawn Jan. All Rights Reserved.                        ║
 ║                                                                              ║
 ║   PROPRIETARY AND CONFIDENTIAL SOFTWARE                                      ║
 ║                                                                              ║
@@ -28,7 +28,7 @@
 ║   This software is provided "as is" without warranty of any kind.           ║
 ║   The Owner shall not be liable for any damages arising from its use.        ║
 ║                                                                              ║
-║   For licensing inquiries: andrejsladkovic1992@gmail.com                    ║
+║   For licensing inquiries: support@butlerai.app                    ║
 ║   Official distribution: https://github.com/shawnjan-cmd/butler-ai          ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
